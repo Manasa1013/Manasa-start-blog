@@ -1,5 +1,5 @@
 ---
-title: write-to-cure--cure-to-write  MY FIRST POST
+title: write-to-cure--cure-to-write  
 date: "2020-06-02T22:40:32.169Z"
 description: Dive into my first writing:)
   SIGHT OF YOU
